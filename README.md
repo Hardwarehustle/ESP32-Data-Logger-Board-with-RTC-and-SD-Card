@@ -21,7 +21,7 @@ The board is suitable for applications such as IoT data logging, time-stamped se
 - Battery-backed RTC section for maintaining time when main power is removed. [file:147]
 
 
-## 🖼️ Project Visuals
+## Project Visuals
 
 ### Schematic
 ![Schematic](Images/SCH.png)
